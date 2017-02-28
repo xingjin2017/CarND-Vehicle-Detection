@@ -5,6 +5,12 @@
 
 **Vehicle Detection Project**
 
+**All code is contained in the jupyter notebook file [P5-Vehicle-Detection.ipynb](https://github.com/xingjin2017/CarND-Vehicle-Detection/blob/master/P5-Vehicle-Detection.ipynb)**
+
+Here's a [link to my video result with a cross-frame tracker](https://youtu.be/9ZCsaPU8P_g)
+
+Here's a [link to my video result without a cross-frame tracker](https://youtu.be/jeXI5l_FT_4)
+
 The goals / steps of this project are the following:
 
 * The **goal** of the project is to detect and track vehicles that are traveling on the road.
